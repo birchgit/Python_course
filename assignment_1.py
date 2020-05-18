@@ -72,7 +72,7 @@ solution_student.append(False)
 # x.append(3)
 # x is y ?? True or False ?
 
-solution_student.append(False)
+solution_student.append(True)
 
 # Assignment 10:
 # x = [1,2]
@@ -80,7 +80,7 @@ solution_student.append(False)
 # x.append(3)
 # x == y ?? True or False ?
 
-solution_student.append(False)
+solution_student.append(True)
 
 
 if __name__ == '__main__':
